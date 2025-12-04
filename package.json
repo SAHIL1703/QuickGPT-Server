@@ -21,6 +21,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^9.0.0",
     "openai": "^6.9.1",
+    "serverless-http": "^4.0.0",
     "stripe": "^20.0.0",
     "svix": "^1.82.0"
   },
